@@ -1,0 +1,109 @@
+/*--------------------------------------------------------------
+# Contact
+--------------------------------------------------------------*/
+
+.contact {
+  padding: 300px 0;
+}
+
+
+.contact .info-box {
+  background-color: #ffffff;
+  border-radius: 20px;
+  color: #000000;
+  text-align: center;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.6);
+  padding: 20px 0 30px 0;
+}
+
+.contact .info-box:hover{
+  background-color: #f1f1f1;
+  transition: all 2s ;
+  scale: 1.2;
+
+}
+.contact .info-box i {
+  font-size: 32px;
+  color: #1c64c2;
+  border-radius: 50%;
+  padding: 8px;
+  border: 2px dotted #000000;
+}
+.info-box a{
+  text-decoration: none;
+  color: #000000;
+}
+
+#epingle{
+  color: #326edd;
+  border: none;
+  font-size: medium;
+
+}
+
+
+.contact .info-box h3 {
+  font-size: 20px;
+  color: #000000;
+  font-weight: 700;
+  margin: 10px 0;
+}
+
+.contact .info-box p {
+  
+  padding: 0;
+  line-height: 24px;
+  font-size: 14px;
+  margin-bottom: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.contact .php-email-form input {
+  padding: 10px 15px;
+}
+
+.contact .php-email-form textarea {
+  padding: 12px 15px;
+}
+
+
+.contact .php-email-form button[type=submit]::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%; /* Ajustement de la largeur du dégradé pour couvrir tout le bouton */
+  height: 100%;
+  transition: width 0.4s ease;
+}
+
+.contact .php-email-form button[type=submit]:hover::before {
+  width: 0; /* Réduction de la largeur du dégradé pour afficher la couleur de fond au survol */
+}
+
+.contact .php-email-form button[type=submit]:hover {
+  background-color: #66cc37; /* Changement de couleur de fond au survol */
+  color: #000000; /* Changement de couleur du texte au survol */
+}
+
+
+@keyframes animate-loading {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
