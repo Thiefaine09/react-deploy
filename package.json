@@ -4,6 +4,7 @@
  "version": "0.1.0",
  "private": true,
  "dependencies": {
+  "@babel/plugin-proposal-private-property-in-object": "^1.0.0",
   "@react-pdf/renderer": "^3.4.4",
   "@testing-library/jest-dom": "^6.4.6",
   "@testing-library/react": "^16.0.0",
@@ -51,6 +52,7 @@
   ]
  },
  "devDependencies": {
+  "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
   "gh-pages": "^6.1.1"
  }
 }
