@@ -86,11 +86,12 @@ button:focus {
 /* Navbar Section  */
 /* --------- */
 .sticky {
-  background-image: linear-gradient(to left, rgb(50, 110, 238), rgb(7, 9, 19));
+  background-color: rgba(0, 0, 0, 0.85) !important;
+  backdrop-filter: blur(12px) !important;
   transition: all 0.3s ease-out 0s !important;
-  box-shadow: 0px 10px 10px 0px rgba(9, 5, 29, 0.171) !important;
-  backdrop-filter: blur(15px) !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3) !important;
 }
+
 
 
 .navbar {
