@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-deploy/static/css/main.5023a3b2.css",
-    "main.js": "/react-deploy/static/js/main.fced94cb.js",
+    "main.css": "/react-deploy/static/css/main.8e32a8d4.css",
+    "main.js": "/react-deploy/static/js/main.38eee18f.js",
     "static/js/770.b477def6.chunk.js": "/react-deploy/static/js/770.b477def6.chunk.js",
     "static/js/488.66abddb0.chunk.js": "/react-deploy/static/js/488.66abddb0.chunk.js",
     "static/media/boxicons.svg": "/react-deploy/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
@@ -22,13 +22,13 @@
     "static/media/THIEF_Log.png": "/react-deploy/static/media/THIEF_Log.f7ad229bc01d4de3a14d.png",
     "static/media/pre.svg": "/react-deploy/static/media/pre.a5d8a21fdfa4b1a56ca1.svg",
     "index.html": "/react-deploy/index.html",
-    "main.5023a3b2.css.map": "/react-deploy/static/css/main.5023a3b2.css.map",
-    "main.fced94cb.js.map": "/react-deploy/static/js/main.fced94cb.js.map",
+    "main.8e32a8d4.css.map": "/react-deploy/static/css/main.8e32a8d4.css.map",
+    "main.38eee18f.js.map": "/react-deploy/static/js/main.38eee18f.js.map",
     "770.b477def6.chunk.js.map": "/react-deploy/static/js/770.b477def6.chunk.js.map",
     "488.66abddb0.chunk.js.map": "/react-deploy/static/js/488.66abddb0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5023a3b2.css",
-    "static/js/main.fced94cb.js"
+    "static/css/main.8e32a8d4.css",
+    "static/js/main.38eee18f.js"
   ]
 }
