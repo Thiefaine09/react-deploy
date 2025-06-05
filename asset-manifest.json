@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/react-deploy/static/css/main.692be474.css",
-    "main.js": "/react-deploy/static/js/main.256daad6.js",
+    "main.js": "/react-deploy/static/js/main.18ea51ee.js",
     "static/js/770.b477def6.chunk.js": "/react-deploy/static/js/770.b477def6.chunk.js",
     "static/js/488.66abddb0.chunk.js": "/react-deploy/static/js/488.66abddb0.chunk.js",
     "static/media/boxicons.svg": "/react-deploy/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
     "static/media/3.png": "/react-deploy/static/media/3.260c69a5faa1b4bdb9f7.png",
+    "static/media/atheneeprojet.png": "/react-deploy/static/media/atheneeprojet.715c26a7df8e198b6f7b.png",
     "static/media/1.png": "/react-deploy/static/media/1.a98c4eed629783d42cf4.png",
     "static/media/boxicons.eot": "/react-deploy/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
     "static/media/2.png": "/react-deploy/static/media/2.dcd38d8b261bb4107ec3.png",
@@ -21,12 +22,12 @@
     "static/media/pre.svg": "/react-deploy/static/media/pre.a5d8a21fdfa4b1a56ca1.svg",
     "index.html": "/react-deploy/index.html",
     "main.692be474.css.map": "/react-deploy/static/css/main.692be474.css.map",
-    "main.256daad6.js.map": "/react-deploy/static/js/main.256daad6.js.map",
+    "main.18ea51ee.js.map": "/react-deploy/static/js/main.18ea51ee.js.map",
     "770.b477def6.chunk.js.map": "/react-deploy/static/js/770.b477def6.chunk.js.map",
     "488.66abddb0.chunk.js.map": "/react-deploy/static/js/488.66abddb0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.692be474.css",
-    "static/js/main.256daad6.js"
+    "static/js/main.18ea51ee.js"
   ]
 }
