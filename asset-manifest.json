@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-deploy/static/css/main.cf610912.css",
-    "main.js": "/react-deploy/static/js/main.38eee18f.js",
+    "main.js": "/react-deploy/static/js/main.07ba169f.js",
     "static/js/770.b477def6.chunk.js": "/react-deploy/static/js/770.b477def6.chunk.js",
     "static/js/488.66abddb0.chunk.js": "/react-deploy/static/js/488.66abddb0.chunk.js",
     "static/media/boxicons.svg": "/react-deploy/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
@@ -23,12 +23,12 @@
     "static/media/pre.svg": "/react-deploy/static/media/pre.a5d8a21fdfa4b1a56ca1.svg",
     "index.html": "/react-deploy/index.html",
     "main.cf610912.css.map": "/react-deploy/static/css/main.cf610912.css.map",
-    "main.38eee18f.js.map": "/react-deploy/static/js/main.38eee18f.js.map",
+    "main.07ba169f.js.map": "/react-deploy/static/js/main.07ba169f.js.map",
     "770.b477def6.chunk.js.map": "/react-deploy/static/js/770.b477def6.chunk.js.map",
     "488.66abddb0.chunk.js.map": "/react-deploy/static/js/488.66abddb0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf610912.css",
-    "static/js/main.38eee18f.js"
+    "static/js/main.07ba169f.js"
   ]
 }
