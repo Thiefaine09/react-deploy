@@ -7,7 +7,7 @@ import { Document, Page, pdfjs } from "react-pdf";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 
 // ✅ Lien brut vers le PDF sur GitHub
-const pdf = "https://raw.githubusercontent.com/thiefaine09/react-deploy/main/src/Assets/CV_OFF_2025Thief_v2.pdf";
+const pdf = "https://raw.githubusercontent.com/thiefaine09/react-deploy/main/src/Assets/CV_OFFThiefaine.pdf";
 
 // ✅ Configuration de PDF.js
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
