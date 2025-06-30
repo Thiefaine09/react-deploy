@@ -29,6 +29,7 @@ const ContactSection = () => {
                                 <a href="mailto:contact@codecraft-innovations.fr">
                                     contact@codecraft-innovations.fr
                                 </a>
+                                thiefaine.sofiane@gmail.com
                             </p>
                         </div>
                     </div>
